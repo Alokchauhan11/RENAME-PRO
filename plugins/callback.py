@@ -72,9 +72,9 @@ async def home_callback_handler(bot, query):
     keybord = InlineKeyboardMarkup([  
                     [InlineKeyboardButton("📢 Updates", url="https://t.me/HxBots"),
                     InlineKeyboardButton("💬 Support", url="https://t.me/HxSupport")],
-                    [InlineKeyboardButton("🛠️ Help", callback_data='help'),
-		            InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/Kirodewal")]
+                    [InlineKeyboardButton("Help", callback_data='help'),
+		            InlineKeyboardButton("About", callback_data='about')],
+                    [InlineKeyboardButton("Developer", url="https://t.me/Kirodewal")]
 		  ])
     await query.message.edit_text(text=text, reply_markup=keybord)
 
