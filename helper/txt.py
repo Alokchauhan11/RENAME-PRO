@@ -11,7 +11,7 @@ class mr(object):
     ABOUT_TXT = """
 
 ├ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/hxbots>@HxBots</a> 
+├ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/hxbots>@RexonBlack</a> 
 ├ 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/oVo-HxBots>oVo-HxBots</a>
 ├ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>Python 3</a>
